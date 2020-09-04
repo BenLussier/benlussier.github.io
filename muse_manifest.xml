@@ -1,0 +1,951 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftpes://ftp.benlussier.com" ftp_rootfolder="/" exportTarget="FTP" domain="benlussier.com" resolutions="1x" timestamp="1513970593197">
+  <folder name="css">
+    <file name="site_global.css" crc="3907651796"/>
+    <file name="taketori.css" crc="3949100683" ref="mechatronics:graphicdesign:photography"/>
+    <file name="master_b-master.css" crc="4113226074" ref="graphicdesign:about:faq:photography:mechatronics:contact"/>
+    <file name="nomq_preview_master_b-master.css" crc="100119940" ref="graphicdesign:about:faq:photography:mechatronics:contact"/>
+    <file name="graphicdesign.css" crc="3826928784" ref="graphicdesign"/>
+    <file name="nomq_graphicdesign.css" crc="3973652218" ref="graphicdesign"/>
+    <file name="iefonts_graphicdesign.css" crc="3824530138" ref="graphicdesign"/>
+    <file name="about.css" crc="4116954987" ref="about"/>
+    <file name="nomq_about.css" crc="339805585" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="faq.css" crc="4243009647" ref="faq"/>
+    <file name="nomq_faq.css" crc="141243758" ref="faq"/>
+    <file name="iefonts_faq.css" crc="3824530138" ref="faq"/>
+    <file name="photography.css" crc="403723691" ref="photography"/>
+    <file name="nomq_photography.css" crc="171514584" ref="photography"/>
+    <file name="iefonts_photography.css" crc="3824530138" ref="photography"/>
+    <file name="mechatronics.css" crc="4130691002" ref="mechatronics"/>
+    <file name="nomq_mechatronics.css" crc="50875385" ref="mechatronics"/>
+    <file name="iefonts_mechatronics.css" crc="3824530138" ref="mechatronics"/>
+    <file name="contact.css" crc="401301693" ref="contact"/>
+    <file name="nomq_contact.css" crc="3818032433" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
+    <file name="index.css" crc="3901150668" ref="index"/>
+    <file name="nomq_index.css" crc="4096402190" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="aperture">
+      <file name="Aperture.js" crc="18641931" mt="1513213371000"/>
+      <file name="Aperture.html" crc="4277722341" mt="1513213371000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="museutils.js" crc="3803043152" ref="index:mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="webpro.js" crc="242022427" ref="index:mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:mechatronics:graphicdesign:photography"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:mechatronics:graphicdesign:photography"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:mechatronics:graphicdesign:photography"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="require.js" crc="4157109226" ref="index:mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="mechatronics"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="mechatronics:graphicdesign:photography"/>
+    <file name="html5shiv.js" crc="4241844378" ref="mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="taketori.js" crc="290790004" ref="mechatronics:graphicdesign:photography"/>
+    <file name="form_check.php" crc="62300408" ref="contact"/>
+    <file name="form_process.php" crc="91775217" ref="contact"/>
+    <file name="form-u43716.php" crc="4019656322" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="benlussierlogo_rgb.svg" crc="517690245" ref="index:mechatronics">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="benlussierlogo_rgb_poster_.png" crc="4058706133" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:mechatronics:graphicdesign:photography:about:contact:faq"/>
+    <file name="mechatronics1.png" crc="3772208472" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics2.png" crc="3849920161" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics3.png" crc="4122910089" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics4.png" crc="3938461797" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics5.png" crc="4057313321" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics6.png" crc="522895794" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="documentaiton.png" crc="392980002" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechanical-u42067.png" crc="171534695" ref="mechatronics"/>
+    <file name="iot-u42060.png" crc="310243033" ref="mechatronics"/>
+    <file name="daq-u42045.png" crc="3882778334" ref="mechatronics"/>
+    <file name="io_sensors.png" crc="3766522771" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="database-u42053.png" crc="4183766355" ref="mechatronics"/>
+    <file name="sourcecodecomputer-u42074.png" crc="84083144" ref="mechatronics"/>
+    <file name="mechatronics0.png" crc="269083235" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="whatismechatronics.svg" crc="118872202" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="whatismechatronics_poster_.png" crc="4270989519" ref="mechatronics"/>
+    <file name="benlussierlogo_rgb_poster_u16686.png" crc="406535788" ref="mechatronics"/>
+    <file name="natgeo-normal.png" crc="3913360485" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="natgeo-rollover.png" crc="416571460" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="natgeo-mouse down.png" crc="3891299915" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="facebook-normal.png" crc="3767128670" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="facebook-rollover.png" crc="4239424904" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="facebook-mouse down.png" crc="3764689732" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="instagram-normal.png" crc="3901686070" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="instagram-rollover.png" crc="430449316" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="instagram-mouse down.png" crc="242091703" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="linkedin-normal.png" crc="230462671" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="linkedin-rollover.png" crc="336400113" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="linkedin-mouse down.png" crc="481103578" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics11600x703.png" crc="4239006514" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics21600x703.png" crc="3981996146" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics31600x703.png" crc="19412179" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics41600x703.png" crc="385956170" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics51600x703.png" crc="351014971" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics61600x703.png" crc="3814628612" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechanical-u420672.png" crc="3851028970" ref="mechatronics"/>
+    <file name="iot-u420602.png" crc="4092489983" ref="mechatronics"/>
+    <file name="daq-u420452.png" crc="236091754" ref="mechatronics"/>
+    <file name="database-u420532.png" crc="3785137733" ref="mechatronics"/>
+    <file name="sourcecodecomputer-u420742.png" crc="3991266311" ref="mechatronics"/>
+    <file name="mechatronics01600x703.png" crc="3951131155" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics01200x527.png" crc="4046698947" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics11200x527.png" crc="289067965" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics21200x527.png" crc="4099463289" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics31200x527.png" crc="401374577" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics41200x527.png" crc="4231252670" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics51200x527.png" crc="463349953" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechatronics61200x527.png" crc="3993873435" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="documentaiton195x200.png" crc="42967786" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="mechanical-u420673.png" crc="475652723" ref="mechatronics"/>
+    <file name="iot-u420603.png" crc="213840157" ref="mechatronics"/>
+    <file name="daq-u420453.png" crc="482954595" ref="mechatronics"/>
+    <file name="io_sensors192x200.png" crc="107939371" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="database-u420533.png" crc="4153420956" ref="mechatronics"/>
+    <file name="sourcecodecomputer-u420743.png" crc="4024566531" ref="mechatronics"/>
+    <file name="mechatronics.png" crc="4061661252" seo="true" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="hamburgmenu.png" crc="220682298" ref="mechatronics">
+      <caption webpage="mechatronics" alt=""/>
+    </file>
+    <file name="sourcecodecomputer-u420744.png" crc="3991266311" ref="mechatronics"/>
+    <file name="database-u420534.png" crc="3785137733" ref="mechatronics"/>
+    <file name="mechanical-u420674.png" crc="479797142" ref="mechatronics"/>
+    <file name="iot-u420604.png" crc="307745758" ref="mechatronics"/>
+    <file name="daq-u420454.png" crc="236091754" ref="mechatronics"/>
+    <file name="graphicdesign_0.png" crc="247282470" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_1.png" crc="3778565079" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_2.png" crc="3838199877" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_3.png" crc="4252035893" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_4.png" crc="204800805" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_5.png" crc="18920404" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_6.png" crc="3930145807" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_8.png" crc="266341091" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_9.png" crc="4102989230" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_10.png" crc="428784632" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_11.png" crc="349401314" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_7.png" crc="3939622682" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="asot_instagram_greyblue_whitebkgrd-crop-u41346.png" crc="9624616" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="fb_greatergiving-crop-u41402.png" crc="4026415619" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="ig_holiday_snowflakes-crop-u41455.png" crc="107471262" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="pss_participant_fb-t_final-crop-u41508.png" crc="3885423196" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="sodus point bears paintball logo-crop-u41561.png" crc="345664218" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="asot_instagram_greyblue_whitebkgrd.jpg" crc="3961822302" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="fb_greatergiving.jpg" crc="207608406" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="ig_holiday_snowflakes.jpg" crc="3793727652" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="pss_participant_fb-t_final.jpg" crc="15566890" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="sodus point bears paintball logo.jpg" crc="397380866" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="graphicdesign:photography"/>
+    <file name="graphicdesign_01600x879.png" crc="4218905793" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_11600x879.png" crc="3778565079" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_21600x879.png" crc="511408495" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_31600x879.png" crc="421795159" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_41600x879.png" crc="249713762" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_51600x879.png" crc="100404273" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_61600x879.png" crc="4286030380" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_81600x879.png" crc="4065344704" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_91600x879.png" crc="29109044" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_101600x879.png" crc="3868573661" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_111600x879.png" crc="4166870030" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_71600x879.png" crc="516803592" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="asot_instagram_greyblue_whitebkgrd-crop-u413462.png" crc="393865528" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="fb_greatergiving-crop-u414022.png" crc="292293437" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="ig_holiday_snowflakes-crop-u414552.png" crc="4225406840" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="pss_participant_fb-t_final-crop-u415082.png" crc="251319497" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="sodus point bears paintball logo-crop-u415612.png" crc="3961686500" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_01200x659.png" crc="92977922" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_11200x659.png" crc="4259476277" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_21200x659.png" crc="270275113" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_31200x659.png" crc="372757514" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_41200x659.png" crc="135791380" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_51200x659.png" crc="3809060659" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_61200x659.png" crc="370792687" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_81200x659.png" crc="3887984901" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_91200x659.png" crc="196113467" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_101200x659.png" crc="18536829" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_111200x659.png" crc="4164115611" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign_71200x659.png" crc="4102524947" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="asot_instagram_greyblue_whitebkgrd-crop-u413463.png" crc="498031764" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="fb_greatergiving-crop-u414023.png" crc="3850462831" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="ig_holiday_snowflakes-crop-u414553.png" crc="31054" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="pss_participant_fb-t_final-crop-u415083.png" crc="238875903" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="sodus point bears paintball logo-crop-u415613.png" crc="369626849" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="asot_instagram_greyblue_whitebkgrd427x427.jpg" crc="3916119526" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="fb_greatergiving704x235.jpg" crc="4017550657" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="ig_holiday_snowflakes427x427.jpg" crc="375128604" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="pss_participant_fb-t_final704x235.jpg" crc="3945586308" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="sodus point bears paintball logo407x427.jpg" crc="373681720" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="asot_instagram_greyblue_whitebkgrd-crop-u413464.png" crc="4192727568" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="pss_participant_fb-t_final-crop-u415084.png" crc="380018915" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="fb_greatergiving-crop-u414024.png" crc="225562942" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="sodus point bears paintball logo-crop-u415614.png" crc="4239817949" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="ig_holiday_snowflakes-crop-u414554.png" crc="430055064" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="graphicdesign.png" crc="4064738482" seo="true" ref="graphicdesign">
+      <caption webpage="graphicdesign" alt=""/>
+    </file>
+    <file name="1334x222.jpg" crc="4234949742" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="2334x222.jpg" crc="4113142733" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="3334x222.jpg" crc="4044320033" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="4334x222.jpg" crc="3852134219" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="5334x222.jpg" crc="328632763" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="6343x222.jpg" crc="171524502" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="7334x222.jpg" crc="381033991" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="8334x222.jpg" crc="3784514459" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="9333x222.jpg" crc="3838668761" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="10333x222.jpg" crc="4105875019" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="11334x222.jpg" crc="3780904743" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="12334x222.jpg" crc="373444941" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="13334x222.jpg" crc="4016077642" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="14334x222.jpg" crc="115178862" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="15334x222.jpg" crc="4148005940" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="16334x222.jpg" crc="325822778" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="17334x222.jpg" crc="326305435" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="18334x222.jpg" crc="3968328128" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="19-crop-u36553.png" crc="478961947" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20334x222.jpg" crc="374552433" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3857162739" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="2.jpg" crc="330914530" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="3.jpg" crc="188771292" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="4.jpg" crc="11757919" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4259673739" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="6.jpg" crc="342058006" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4230420519" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4171194235" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="9.jpg" crc="518634448" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="10.jpg" crc="4203288009" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="11.jpg" crc="4003641999" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="12.jpg" crc="3859093092" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="13.jpg" crc="3947567662" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="14.jpg" crc="4105644730" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="15.jpg" crc="8421733" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="16.jpg" crc="476613578" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="17.jpg" crc="4162807719" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="18.jpg" crc="3982195733" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="19.jpg" crc="4172486100" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20.jpg" crc="4146161705" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="19-crop-u365532.png" crc="478961947" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="1287x191.jpg" crc="3969099610" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="2287x191.jpg" crc="294532730" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="3287x191.jpg" crc="506254333" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="4287x191.jpg" crc="4100367533" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="5287x191.jpg" crc="3989244411" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="6295x192.jpg" crc="4086569923" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="7287x191.jpg" crc="378935272" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="8287x191.jpg" crc="4103756204" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="9287x191.jpg" crc="250781005" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="10287x191.jpg" crc="253750388" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="11287x191.jpg" crc="4249572741" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="12287x191.jpg" crc="3914926291" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="13287x191.jpg" crc="64331085" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="14287x191.jpg" crc="303456691" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="15287x191.jpg" crc="468908106" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="16287x191.jpg" crc="66696781" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="17287x191.jpg" crc="4002930760" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="18287x191.jpg" crc="1400994" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="19-crop-u365533.png" crc="89883815" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20287x191.jpg" crc="3797610716" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="1704x469.jpg" crc="4266411589" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="2704x469.jpg" crc="4082221115" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="3704x469.jpg" crc="3921099891" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="4704x469.jpg" crc="145325446" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="5704x469.jpg" crc="271754120" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="6704x456.jpg" crc="4224133272" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="7704x469.jpg" crc="4249351014" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="8704x469.jpg" crc="3936982531" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="9704x470.jpg" crc="3884161290" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="10704x470.jpg" crc="3989325636" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="11704x469.jpg" crc="4056293309" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="12704x469.jpg" crc="268751090" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="13704x469.jpg" crc="3968188131" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="14704x469.jpg" crc="193410915" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="15704x469.jpg" crc="4061221315" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="16704x469.jpg" crc="112120617" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="17704x469.jpg" crc="4276897042" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="18704x469.jpg" crc="4249704393" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="19-crop-u36571.png" crc="3970469126" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20704x469.jpg" crc="3937413118" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="aperture.png" crc="3868282328" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="1-crop-u35536.png" crc="3849098302" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="4-crop-u35698.png" crc="376125785" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="7-crop-u35857.png" crc="3877851816" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="10-crop-u36016.png" crc="66884200" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="13-crop-u36175.png" crc="4003104251" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="16-crop-u36334.png" crc="320718452" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="19-crop-u365534.png" crc="3774942981" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="2-crop-u35592.png" crc="3963270769" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="5-crop-u35751.png" crc="3971092520" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="8-crop-u35910.png" crc="4250150248" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="11-crop-u36069.png" crc="4127045628" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="14-crop-u36228.png" crc="4102224468" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="17-crop-u36387.png" crc="332073218" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20-crop-u36493.png" crc="505408343" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="3-crop-u35645.png" crc="4203776352" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="6-crop-u35804.png" crc="16701574" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="9-crop-u35963.png" crc="3878982743" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="12-crop-u36122.png" crc="232513855" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="15-crop-u36281.png" crc="182474436" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="18-crop-u36440.png" crc="439440932" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="1-crop-u35554.png" crc="380933737" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="2-crop-u35607.png" crc="4080610935" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="3-crop-u35660.png" crc="3783341365" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="4-crop-u35713.png" crc="4205979714" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="5-crop-u35766.png" crc="4230518764" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="6-crop-u35819.png" crc="157853676" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="7-crop-u35872.png" crc="313982046" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="8-crop-u35925.png" crc="4248858437" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="9-crop-u35978.png" crc="4190574468" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="10-crop-u36031.png" crc="432940720" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="11-crop-u36084.png" crc="3904257252" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="12-crop-u36137.png" crc="439616325" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="13-crop-u36190.png" crc="127696526" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="14-crop-u36243.png" crc="233947767" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="15-crop-u36296.png" crc="285967658" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="16-crop-u36349.png" crc="443462688" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="17-crop-u36402.png" crc="176195049" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="18-crop-u36455.png" crc="188915421" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="19-crop-u365712.png" crc="3970469126" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="20-crop-u36508.png" crc="3941261467" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="me.png" crc="4041777305" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="contact.svg" crc="532754705" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="contact_poster_.png" crc="358570940" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="4170680889" seo="true" mt="1513907708313" redirect="true"/>
+  <file name="mechatronics.html" crc="303308810" seo="true" mt="1513969363220" redirect="true"/>
+  <file name="graphicdesign.html" crc="325373258" seo="true" mt="1513969363220" redirect="true"/>
+  <file name="photography.html" crc="510101643" seo="true" mt="1513970475772" redirect="true"/>
+  <file name="about.html" crc="4259508614" seo="true" mt="1513969363220" redirect="true"/>
+  <file name="contact.html" crc="27519263" seo="true" mt="1513969363220" redirect="true"/>
+  <file name="faq.html" crc="271719801" seo="true" mt="1513969363220" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U1774">
+        <breakpoint uid="U5949" maxwidth="768" minwidth="0" squishy="true"/>
+        <breakpoint uid="U6377" maxwidth="1200" minwidth="769" squishy="false"/>
+        <breakpoint uid="U83" maxwidth="2560" minwidth="1201" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U1774">
+        <breakpoint uid="U1960" maxwidth="768" minwidth="0" squishy="false"/>
+        <breakpoint uid="U6361" maxwidth="1200" minwidth="769" squishy="false"/>
+        <breakpoint uid="U1839" maxwidth="2560" minwidth="1201" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="2560" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Mechatronics" filename="mechatronics.html" muse_href="page:U17703" master="U224">
+        <breakpoint uid="U24326" maxwidth="768" minwidth="0" squishy="true"/>
+        <breakpoint uid="U24128" maxwidth="1200" minwidth="769" squishy="false"/>
+        <breakpoint uid="U24124" maxwidth="1600" minwidth="1201" squishy="false"/>
+        <breakpoint uid="U17693" maxwidth="2560" minwidth="1601" squishy="false"/>
+      </page>
+      <masterPage name="B-Master" master="U62" uid="U224">
+        <breakpoint uid="U11004" maxwidth="768" minwidth="0" squishy="true"/>
+        <breakpoint uid="U10958" maxwidth="1200" minwidth="769" squishy="false"/>
+        <breakpoint uid="U258" maxwidth="1600" minwidth="1201" squishy="false"/>
+        <breakpoint uid="U225" maxwidth="2560" minwidth="1601" squishy="false"/>
+      </masterPage>
+      <page name="GraphicDesign" filename="graphicdesign.html" muse_href="page:U17925" master="U224">
+        <breakpoint uid="U39964" maxwidth="768" minwidth="0" squishy="true"/>
+        <breakpoint uid="U39723" maxwidth="1200" minwidth="769" squishy="false"/>
+        <breakpoint uid="U39598" maxwidth="1600" minwidth="1201" squishy="false"/>
+        <breakpoint uid="U17909" maxwidth="2560" minwidth="1601" squishy="false"/>
+      </page>
+      <page name="Photography" filename="photography.html" muse_href="page:U18158" master="U224">
+        <breakpoint uid="U29687" maxwidth="768" minwidth="0" squishy="true"/>
+        <breakpoint uid="U29679" maxwidth="1200" minwidth="769" squishy="false"/>
+        <breakpoint uid="U29671" maxwidth="1600" minwidth="1201" squishy="false"/>
+        <breakpoint uid="U18142" maxwidth="2560" minwidth="1601" squishy="false"/>
+      </page>
+      <page name="About" filename="about.html" muse_href="page:U18405" master="U224">
+        <breakpoint uid="U51440" maxwidth="768" minwidth="0" squishy="true"/>
+        <breakpoint uid="U51424" maxwidth="1200" minwidth="769" squishy="false"/>
+        <breakpoint uid="U25839" maxwidth="1600" minwidth="1201" squishy="false"/>
+        <breakpoint uid="U18389" maxwidth="2560" minwidth="1601" squishy="false"/>
+      </page>
+      <page name="Contact" filename="contact.html" muse_href="page:U18666" master="U224">
+        <breakpoint uid="U28463" maxwidth="768" minwidth="0" squishy="true"/>
+        <breakpoint uid="U28340" maxwidth="1200" minwidth="769" squishy="false"/>
+        <breakpoint uid="U28217" maxwidth="1600" minwidth="1201" squishy="false"/>
+        <breakpoint uid="U18650" maxwidth="2560" minwidth="1601" squishy="false"/>
+      </page>
+      <page name="FAQ" filename="faq.html" muse_href="page:U26385" master="U224">
+        <breakpoint uid="U27633" maxwidth="768" minwidth="0" squishy="true"/>
+        <breakpoint uid="U27509" maxwidth="1200" minwidth="769" squishy="false"/>
+        <breakpoint uid="U27254" maxwidth="1600" minwidth="1201" squishy="false"/>
+        <breakpoint uid="U26345" maxwidth="2560" minwidth="1601" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
